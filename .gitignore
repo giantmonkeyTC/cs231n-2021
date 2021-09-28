@@ -1,0 +1,9 @@
+assignments/assignment1/cs231n/datasets/get_datasets.sh
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py/batches.meta
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_1
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_2
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_3
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_4
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_5
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py/readme.html
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py/test_batch
